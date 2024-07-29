@@ -1,4 +1,4 @@
-# Understanding the heterogeneous performance of variant effect predictors across human protein-coding genes paper
+# Understanding the heterogeneous performance of variant effect predictors across human protein-coding genes
 
 This repository contains all the scripts needed to reproduce the results discussed in the paper titled "Understanding the heterogeneous performance of variant effect predictors across human protein-coding genes"
 
